@@ -11,4 +11,4 @@ Notre projet est basé sur deux axes :
 
 - **L'automatisation** de l'arrosage : différents capteurs récoltent des informations sur la température et l'humidité du sol. Ces données sont ensuite traitées par un programme stocké dans une carte Arduino. En fonction des conditions, le programme décide ou non d'actionner une pompe reliée aux tuyau(x) d'arrosage.
 
-- **L'autonomie** en énergie et en eau : un système de récupération de l'eau de pluie permet d'alimenter le réservoir ou est situé la pompe. Un panneau solaire assure la recharge des batteries servant à alimenter l'électronique et la pompe. Cela permet d'éviter les interventions humaines sur le système.
+- **L'autonomie** en énergie et en eau : un système de récupération de l'eau de pluie permet d'alimenter le réservoir où est située la pompe. Un panneau solaire assure la recharge des batteries servant à alimenter l'électronique et la pompe. Cela permet d'éviter les interventions humaines sur le système.
