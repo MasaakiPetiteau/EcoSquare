@@ -1,10 +1,9 @@
-const int bouton = 2;
+const int bouton = 2; // Port où le bouton est connecté
 int valeur_bouton;
 
 void setup() {
   pinMode(bouton, INPUT);
   Serial.begin(9600);
-
 }
 
 void loop() {
