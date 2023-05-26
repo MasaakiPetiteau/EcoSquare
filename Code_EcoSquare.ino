@@ -12,7 +12,7 @@ const int pinTempSensor = A0; // le capteur de température est connecté à la 
 #endif
 
 // HUMIDITE :
-int sensorPin = A1; le capteur d'humidité est connecté à la boche A1
+int sensorPin = A1; // le capteur d'humidité est connecté à la boche A1
 int humidite = 0;
 
 // POMPE :
