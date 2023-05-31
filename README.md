@@ -1,7 +1,7 @@
 # Jardin automatisé et autonome
 
 ### À quel besoin répond t-il ?
-L'utilisateur souhaite s'absenter de son jardin ou ne pas avoir à s'en occuper. L'enjeu principal est l'arrosage, on souhaite donc l'automatiser.
+L'utilisateur souhaite s'absenter de son jardin ou ne pas avoir à s'en occuper. L'enjeu principal est l'arrosage, on souhaite donc l'automatiser. 
 
 ### Notre solution :
 Notre système se présente sous la forme d'un boiter abritant l'électronique, ainsi que d'un réservoir muni d'une pompe. Des connexions sur le boiter permettent de relier plusieurs capteurs de façon modulable.
